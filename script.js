@@ -48,6 +48,85 @@ const FRASES_MOTIVADORAS = [
     "Cada momento de resistencia es un acto de amor propio que honra tu valor.",
     "Las cosas cambiarán. Nada permanece estático, y eso incluye el dolor.",
     "Mereces ser feliz, y esa merced no depende de lo que hayas hecho o dejado de hacer."
+    "Hoy no necesitas demostrarle nada al mundo. El simple hecho de seguir aquí, respirando y avanzando aunque sea un poco, ya es una forma silenciosa de victoria."
+
+"A veces la vida se vuelve tan ruidosa que olvidas escucharte a ti mismo. Detente un momento y recuerda que dentro de ti también existe calma."
+
+"No todos los días tienen que ser extraordinarios. Algunos días solo están hechos para resistir, y eso también es parte de la historia."
+
+"Quizá hoy el camino se siente incierto, pero incluso la incertidumbre puede ser el comienzo de algo que todavía no sabes que necesitas."
+
+"Hay días en los que el alma pesa más que el cuerpo, pero incluso entonces sigues caminando. Y eso dice mucho sobre tu fuerza."
+
+"No te preocupes por entenderlo todo ahora. Algunas respuestas llegan cuando menos las buscas."
+
+"Aunque el mundo siga girando rápido, está bien si tú decides avanzar a tu propio ritmo."
+
+"El silencio de algunas noches guarda respuestas que el ruido del día no permite escuchar."
+
+"No todo lo que se rompe está destinado a desaparecer. Algunas cosas se reconstruyen más fuertes."
+
+"Cada amanecer es una oportunidad silenciosa para volver a empezar sin tener que explicarle nada a nadie."
+
+"No te castigues por haber sentido demasiado. Sentir también es una forma de estar vivo."
+
+"A veces lo único que necesitas es un momento de paz para recordar que aún hay mucho por descubrir."
+
+"El tiempo tiene una manera extraña de acomodar las piezas que hoy parecen fuera de lugar."
+
+"Quizá no lo notes ahora, pero cada pequeño esfuerzo está cambiando lentamente el rumbo de tu historia."
+
+"Los días difíciles también cuentan, porque son los que enseñan al corazón a resistir."
+
+"No todos entenderán tu proceso, y eso está bien. Algunas batallas son demasiado personales para explicarlas."
+
+"El hecho de que sigas intentándolo ya significa que dentro de ti hay algo que todavía cree en el mañana."
+
+"Aunque hoy parezca gris, el cielo no olvida cómo volver a llenarse de luz."
+
+"Las historias más importantes rara vez comienzan con certezas. Casi siempre empiezan con alguien que decidió seguir adelante."
+
+"Tal vez el destino no sea un lugar, sino el camino que sigues construyendo incluso cuando no sabes exactamente hacia dónde vas."
+
+"A veces el simple hecho de seguir aquí ya es una forma silenciosa de valentía."
+
+"No todas las batallas se ven desde afuera; algunas ocurren en el corazón y aun así las estás ganando."
+
+"Hay días en los que avanzar significa solo no retroceder, y eso también es progreso."
+
+"Aunque hoy no tenga sentido, el tiempo suele revelar por qué algunas cosas tuvieron que pasar."
+
+"Tu historia no se define por los momentos difíciles, sino por las veces que decidiste continuar."
+
+"A veces la vida se siente pesada porque estás cargando sueños que todavía no han ocurrido."
+
+"No necesitas correr hacia el futuro; incluso los pasos lentos te están llevando a algún lugar."
+
+"El hecho de que sigas intentándolo dice más de ti que cualquier victoria rápida."
+
+"Algunas respuestas llegan tarde, pero cuando llegan cambian todo."
+
+"Cada amanecer es una oportunidad silenciosa para comenzar otra vez."
+
+"No todos entenderán tu proceso, pero eso no hace menos real tu esfuerzo."
+
+"Hay belleza incluso en los momentos donde todo parece detenerse."
+
+"El tiempo tiene una forma extraña de acomodar las cosas cuando menos lo esperas."
+
+"Aunque hoy parezca gris, el cielo siempre recuerda cómo volver a iluminarse."
+
+"Tu camino no necesita ser perfecto para ser valioso."
+
+"A veces perder algo también significa hacer espacio para algo mejor."
+
+"No todo dolor llega para quedarse; algunos solo vienen a enseñarte algo."
+
+"Hay una fuerza dentro de ti que ha sobrevivido a cada uno de tus días difíciles."
+
+"Seguir adelante cuando todo pesa es una forma silenciosa de esperanza."
+
+"Quizá aún no lo ves, pero cada día que continúas estás escribiendo algo importante."
 ];
 
 // Array extenso de frases reflexivas/tristes
@@ -82,6 +161,96 @@ const FRASES_REFLEXIVAS = [
     "Lo que hoy duele intensamente, mañana enseña una lección que no olvidarás.",
     "Tu lucha es válida aunque nadie más la vea, aunque nadie te lo reconozca jamás.",
     "Continuamos, no porque sea fácil o hermoso, sino porque es necesario y porque somos dignos de intentarlo."
+    "Hoy avanzaste aunque nadie lo notara. A veces las victorias más grandes son las que ocurren en silencio."
+
+"Hay momentos en los que el corazón solo necesita tiempo, no respuestas."
+
+"No todo lo que duele está destinado a destruirte. Algunas heridas solo están enseñándote a sentir diferente."
+
+"Quizá el universo no te está deteniendo, tal vez solo te está preparando para algo que aún no puedes ver."
+
+"El hecho de que sigas aquí significa que todavía hay capítulos por escribir en tu historia."
+
+"A veces el progreso se ve como descanso, como silencio, como desaparecer un rato para volver más fuerte."
+
+"Tu vida no necesita ser perfecta para ser valiosa."
+
+"Los días difíciles no definen quién eres, pero sí revelan la fuerza que llevas dentro."
+
+"Respira profundo. Incluso los momentos más caóticos terminan encontrando su calma."
+
+"No todos los caminos están hechos para entenderse de inmediato."
+
+"Hay una versión futura de ti que está orgullosa de que no te hayas rendido hoy."
+
+"Algunas noches están hechas para pensar demasiado, pero también para recordar que sigues aquí."
+
+"Las tormentas también enseñan a apreciar el cielo despejado."
+
+"Aunque el mundo cambie constantemente, tu capacidad de levantarte sigue siendo tu mayor poder."
+
+"Cada día que decides continuar es una pequeña rebelión contra todo lo que intentó detenerte."
+
+"No necesitas correr hacia el futuro. A veces basta con caminar."
+
+"Las historias más reales están llenas de dudas, pausas y segundas oportunidades."
+
+"Puede que hoy no veas la luz completa, pero incluso una chispa es suficiente para empezar."
+
+"No subestimes los días tranquilos; muchas veces ahí es donde el alma se reconstruye."
+
+"Seguir adelante no siempre se siente heroico, pero sigue siendo un acto de valentía."
+
+"Quizá el sentido de todo esto no esté en llegar rápido, sino en aprender mientras avanzas."
+
+"Cada respiración es un recordatorio silencioso de que aún hay tiempo para cambiar las cosas."
+
+"Hay belleza incluso en los momentos donde todo parece detenerse."
+
+"El tiempo no borra todo, pero sí enseña a vivir con lo que permanece."
+
+"Aunque hoy no lo notes, algo dentro de ti sigue creciendo."
+
+"A veces sobrevivir al día ya es una victoria silenciosa que nadie ve, pero que dice todo sobre tu fuerza."
+
+"No todo progreso hace ruido; algunas de las transformaciones más grandes ocurren en silencio."
+
+"Hay días en los que solo estás aprendiendo a respirar de nuevo, y eso también cuenta como avanzar."
+
+"Aunque hoy parezca igual que ayer, algo dentro de ti ya está cambiando."
+
+"Las noches largas también tienen su propósito: recordarte que la luz siempre vuelve."
+
+"No necesitas tener todo claro para seguir caminando; a veces el camino se revela mientras avanzas."
+
+"El tiempo no siempre cura todo, pero sí enseña al corazón a cargar menos peso."
+
+"A veces el universo solo te pide paciencia mientras acomoda las piezas de tu historia."
+
+"Seguir adelante cuando todo pesa es una forma de valentía que pocos entienden."
+
+"No todos los días están hechos para brillar; algunos están hechos simplemente para resistir."
+
+"Lo que hoy parece un final puede ser solo un giro inesperado en tu historia."
+
+"Cada día que decides continuar es una pequeña revolución contra todo lo que intentó detenerte."
+
+"No subestimes tu capacidad de levantarte; ya lo has hecho más veces de las que recuerdas."
+
+"El silencio también puede ser un refugio cuando el mundo se vuelve demasiado ruidoso."
+
+"Aunque hoy te sientas perdido, todavía estás en el camino."
+
+"La vida cambia lentamente, casi imperceptiblemente, hasta que un día todo es diferente."
+
+"Las cicatrices no son el final de la historia; son evidencia de que sobreviviste."
+
+"A veces el mayor acto de amor propio es simplemente no rendirse."
+
+"No todo lo que se rompe desaparece; algunas cosas se reconstruyen más fuertes."
+
+"Quizá el sentido de todo esto es descubrir que siempre fuiste más fuerte de lo que pensabas."
+    
 ];
 
 // Array combinado para mezcla aleatoria
